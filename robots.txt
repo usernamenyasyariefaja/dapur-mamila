@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usernamenyasyariefaja.github.io/dapur-mamila/sitemap.xml
